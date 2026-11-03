@@ -1,0 +1,5 @@
+opencv-python
+numpy
+Pillow
+# Google Colab utilities are provided by the Colab runtime.
+# Video processing also requires the FFmpeg system executable.
