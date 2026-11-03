@@ -23,7 +23,7 @@ A 3 × 3 Gaussian blur is applied before Canny edge detection.
 
 | Parameter | Default | Description |
 | --------- | ------- | ----------- |
-| `BLOCK_SIZE` | 15 | Width and height of each square block |
+| `BLOCK_SIZE` | 10 | Width and height of each square block |
 | `DARK_THRESHOLD` | 60 | Pixels with lower average intensity count as dark |
 | `MIN_DARK_FRACTION` | 0.30 | Minimum proportion of dark pixels in a block |
 | `MIN_EDGE_FRACTION` | 0.05 | Minimum proportion of detected edge pixels |

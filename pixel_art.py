@@ -20,7 +20,7 @@ from PIL import Image, ImageSequence
 
 
 # Default settings for the edge-aware pixelation algorithm.
-BLOCK_SIZE = 15
+BLOCK_SIZE = 10
 DARK_THRESHOLD = 60
 MIN_DARK_FRACTION = 0.30
 MIN_EDGE_FRACTION = 0.05
